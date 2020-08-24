@@ -13,7 +13,7 @@ You can send me an email at&nbsp; <img src='https://user-images.githubuserconten
 <p float="left">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/bcnishi)&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/beatriz-caroline-nishi-07948618b/)&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/beatrizcnishi/)&nbsp;
+[<img src='https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/beatriz-caroline-nishi-07948618b/)&nbsp;
+[<img src='https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/beatrizcnishi/)&nbsp;
 
 </p>
