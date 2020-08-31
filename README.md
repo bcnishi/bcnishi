@@ -5,7 +5,7 @@
 - Master of Science in Biochemistry at the Federal University of Ceará - UFC;
 - Bachelor degree in Biotechnology at the Federal University of Ceará - UFC;
 - I’m currently learning **Python** <img title="Python" src="https://raw.githubusercontent.com/bcnishi/bcnishi/master/images/python.svg" height="20" /> and **SQL**;
-- I'm passionate about **Data Science** and **IA**;
+- I'm passionate about **Data Science**, **IA** and **Open Source**;
 - I’m looking for help with learning about **Deep Learning** and **Big Data**.
 
 ### :mailbox:  How to reach me:
