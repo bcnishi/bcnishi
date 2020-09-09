@@ -17,5 +17,6 @@ You can send me an email at&nbsp; <img src='https://user-images.githubuserconten
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/bcnishi)&nbsp;
 [<img src='https://raw.githubusercontent.com/bcnishi/bcnishi/master/images/Linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/beatriz-caroline-nishi-07948618b/)&nbsp;
 [<img src='https://raw.githubusercontent.com/bcnishi/bcnishi/master/images/Instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/beatrizcnishi/)&nbsp;
+[<img src='https://raw.githubusercontent.com/bcnishi/bcnishi/master/images/kaggle.svg' alt='kaggle' height='25'>](https://www.kaggle.com/beatrizcnishi/)&nbsp;
 
 </p>
