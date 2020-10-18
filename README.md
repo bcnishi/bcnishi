@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/H1AOWKdxMoWAePVh0v/giphy.gif" width="300">
 
-## Hello there, I'm Beatriz Caroline Nishi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Hello there, I'm Beatriz! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 - Ph.D. in progress in Biochemistry at the Federal University of Ceará - UFC;
 - M.Sc. in Biochemistry at the Federal University of Ceará - UFC;
