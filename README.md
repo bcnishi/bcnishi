@@ -5,7 +5,7 @@
 - Ph.D. in progress in Biochemistry at the Federal University of Ceará - UFC;
 - M.Sc. in Biochemistry at the Federal University of Ceará - UFC;
 - Bachelor degree in Biotechnology at the Federal University of Ceará - UFC;
-- I’m currently learning **HTML**, **CSS** and **SQL**;
+- I’m currently learning **SQL** and **JavaScript**;
 - I'm passionate about **Data Science**, **IA** and **Open Source**;
 - I’m looking for help with learning about **Deep Learning** and **Big Data**.
 
