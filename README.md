@@ -1,10 +1,10 @@
-<img align='right' src="https://media.giphy.com/media/H1AOWKdxMoWAePVh0v/giphy.gif" width="300">
+<img align='right' src="https://media.giphy.com/media/LnG5C7EbyUaK9tuQ7q/giphy.gif" width="350">
 
 ## Hello there, I'm Beatriz! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 - M.Sc. in Biochemistry at the Federal University of Ceará - UFC;
 - Bachelor degree in Biotechnology at the Federal University of Ceará - UFC;
-- I’m currently learning **SQL**;
+- I’m currently learning **SQL** and **AWS**;
 - I'm passionate about **Data Science**, **IA** and **Open Source**;
 - I’m looking for help with learning about **Deep Learning** and **Big Data**.
 
