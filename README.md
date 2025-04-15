@@ -2,12 +2,12 @@
 
 ## Hello there, I'm Beatriz! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-- Data Engineer at Nestlé;
+- Senior Data Engineer at Nestlé;
 - M.Sc. in Biochemistry at the Federal University of Ceará - UFC;
 - Bachelor degree in Biotechnology at the Federal University of Ceará - UFC;
-- I’m currently learning **Spark**;
+- I’m leading the **Unity Catalog** Implementation for ADI (Analytics Data Integration) Brazil;
 - I'm passionate about **Data Science**, **IA** and **Open Source**;
-- I’m looking for help with learning about **Deep Learning** and **Big Data**.
+- I’m stuying to pass the Microsoft’s Azure Data Engineer Certification Exam (DP-203).
 
 ### :computer: Profile stats:
 <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=bcnishi&show_icons=true&theme=dracula&hide_border=true" />
